@@ -1,0 +1,61 @@
+#pane1{
+	-fx-background-image: url("backgroundd.jpg");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size:1500 1000;
+	-fx-background-position: center center ;
+}
+
+#panehtp{
+	-fx-background-image: url("howtoplaypane.png");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size:1500 1000;
+	-fx-background-position: center center ;
+ }
+#pane2{
+	-fx-background-image: url("heroesbackground.jpeg");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size:1500 1000;
+	-fx-background-position: center center ;
+	
+	
+}
+#pane3 {
+	-fx-background-image: url("gamebackground.png");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size:1500 1000;
+	-fx-background-position: center center ;
+}
+
+.button{
+	
+	-fx-border-color: transparent;
+	
+	
+}
+#panewin {
+	-fx-background-image: url("winbackground.png");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size:1500 1000;
+	-fx-background-position: center center ;
+}
+#panelose {
+	-fx-background-image: url("gameoverbackground.png");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size:1500 1000;
+	-fx-background-position: center center ;
+}
+#panekaroun{
+	-fx-background-color:black;
+	-fx-text-fill:white;
+	-fx-font-size:16px;
+	-fx-font-weight:bold;
+	-fx-border-radius: 15px;
+	-fx-background-radius: 15px;
+}
+
+
+	
+	
+
+
+
